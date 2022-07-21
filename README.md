@@ -54,7 +54,7 @@ func (d *TestRouter) After(request *amethyst.Request)  {
 2. Create a file called `conf.json`, then configure the server. 
 <br>
 Example:<br>
-```json
+```json5
 {
   "ip": "127.0.0.1",
   "port": 8989,
