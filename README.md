@@ -55,7 +55,6 @@ func (d *TestRouter) After(request *amethyst.Request)  {
 <br>
 Example:<br>
 ```json
-
 {
   "ip": "127.0.0.1",
   "port": 8989,
@@ -65,7 +64,6 @@ Example:<br>
   "maxPoolSize": 10,
   "MaxQueLen": 10
 }
-
 ```
     
 ![](assets/run.png)
