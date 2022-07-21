@@ -53,7 +53,7 @@ func (d *TestRouter) After(request *amethyst.Request)  {
 1. You are supposed to create a directory called `resource` under the root directory.
 2. Create a file called `conf.json`, then configure the server. 
 <br>
-    Example:
+Example:<br>
 ```json
 {
   "ip": "127.0.0.1",
